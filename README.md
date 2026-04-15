@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bency Ganza 👋
 
-<!--
-**ganzabency-create/ganzabency-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- Student from Rwanda
+- Learning programming, AI, and computer science
+- Interested in architecture, civil engineering, technology, and innovation
+- Building projects that solve real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Skills
+- C++
+- HTML
+- CSS
+- MySQL
+- Problem Solving
+- vibecoding
+- creativity
+
+## Projects I am Building
+- Umuganda+ platform
+- movesmart urbanflow 
+- Personal portfolio website
+- AI content creator agent
+
+## Goals
+- Improve my coding skills
+- Build strong projects
+- Grow as a developer
+- solve as many problems as I can
+- Prepare for top university opportunities
+
+## Connect With Me
+- GitHub: ganzabency-create
+- Linkedin:  Ganza Bency
+
+> “Building useful things, one step at a time.”
