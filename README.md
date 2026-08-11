@@ -32,6 +32,6 @@ Welcome to my GitHub profile!
 
 ## Connect With Me
 - GitHub: ganzabency-create
-- Linkedin:  Ganza Bency
+- Linkedin: Bency Ganza 
 
 > “Building useful things, one step at a time.”
