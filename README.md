@@ -19,19 +19,18 @@ Welcome to my GitHub profile!
 
 ## Projects I am Building
 - Umuganda+ platform
-- movesmart urbanflow 
-- Personal portfolio website
+- movesmart urbanflow
 - AI content creator agent
 
 ## Goals
 - Improve my coding skills
-- Build strong projects
+- Build strong projects that solve real world problems
 - Grow as a developer
 - solve as many problems as I can
 - Prepare for top university opportunities
 
 ## Connect With Me
-- GitHub: ganzabency-create
+- GitHub: BencyGanza
 - Linkedin: Bency Ganza 
 
 > “Building useful things, one step at a time.”
